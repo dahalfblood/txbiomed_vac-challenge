@@ -3,6 +3,66 @@
 # Introduction
 Submission repository for the La Jolla Institute for Immunology, Computational Models of Immunity- Pertussis Boost challenge
 # Challenge Submissions
+## 0) full submission
+| SubjectID | Age | BiologicalSexAtBirth | VaccinePrimingStatus | 1.1) IgG-PT-D14-titer-Rank | 1.2) IgG-PT-D14-FC-Rank | 2.1) Monocytes-D1-Rank | 2.2) Monocytes-D1-FC-Rank |
+|-----------|-----|----------------------|----------------------|----------------------------|-------------------------|------------------------|---------------------------|
+| 119       | 26  | Female               | aP                   | 40                         | 40                      | 33                     | 5                         |
+| 120       | 29  | Female               | wP                   | 24                         | 17                      | 42                     | 22                        |
+| 121       | 24  | Female               | aP                   | 5                          | 41                      | 45                     | 11                        |
+| 122       | 25  | Female               | aP                   | 45                         | 45                      | 24                     | 17                        |
+| 123       | 28  | Female               | wP                   | 25                         | 8                       | 32                     | 27                        |
+| 124       | 24  | Male                 | aP                   | 16                         | 26                      | 12                     | 8                         |
+| 125       | 31  | Male                 | wP                   | 8                          | 23                      | 22                     | 31                        |
+| 126       | 31  | Male                 | wP                   | 15                         | 11                      | 16                     | 40                        |
+| 127       | 28  | Female               | aP                   | 27                         | 32                      | 11                     | 16                        |
+| 128       | 30  | Female               | wP                   | 10                         | 12                      | 25                     | 33                        |
+| 129       | 33  | Male                 | wP                   | 7                          | 29                      | 5                      | 36                        |
+| 130       | 28  | Male                 | wP                   | 53                         | 15                      | 37                     | 45                        |
+| 131       | 26  | Female               | aP                   | 9                          | 38                      | 30                     | 14                        |
+| 132       | 29  | Male                 | wP                   | 12                         | 30                      | 6                      | 26                        |
+| 133       | 27  | Female               | aP                   | 39                         | 6                       | 35                     | 41                        |
+| 134       | 34  | Male                 | wP                   | 41                         | 9                       | 47                     | 46                        |
+| 135       | 29  | Male                 | wP                   | 18                         | 16                      | 29                     | 24                        |
+| 136       | 29  | Female               | wP                   | 4                          | 10                      | 38                     | 32                        |
+| 137       | 26  | Female               | aP                   | 26                         | 37                      | 15                     | 21                        |
+| 138       | 24  | Male                 | aP                   | 14                         | 13                      | 46                     | 38                        |
+| 139       | 31  | Female               | wP                   | 46                         | 19                      | 36                     | 34                        |
+| 140       | 23  | Female               | aP                   | 21                         | 24                      | 18                     | 48                        |
+| 141       | 28  | Female               | wP                   | 52                         | 5                       | 53                     | 49                        |
+| 142       | 33  | Female               | aP                   | 36                         | 34                      | 50                     | 20                        |
+| 143       | 21  | Female               | aP                   | 13                         | 52                      | 26                     | 2                         |
+| 144       | 25  | Female               | aP                   | 19                         | 2                       | 8                      | 42                        |
+| 145       | 22  | Male                 | aP                   | 28                         | 53                      | 19                     | 1                         |
+| 146       | 32  | Male                 | wP                   | 20                         | 49                      | 14                     | 4                         |
+| 147       | 24  | Female               | aP                   | 17                         | 27                      | 23                     | 30                        |
+| 148       | 36  | Male                 | wP                   | 32                         | 50                      | 48                     | 50                        |
+| 149       | 33  | Female               | wP                   | 35                         | 43                      | 51                     | 9                         |
+| 150       | 33  | Male                 | wP                   | 37                         | 7                       | 31                     | 51                        |
+| 151       | 32  | Female               | wP                   | 2                          | 35                      | 52                     | 18                        |
+| 152       | 29  | Female               | wP                   | 34                         | 20                      | 43                     | 52                        |
+| 153       | 26  | Female               | aP                   | 3                          | 3                       | 49                     | 44                        |
+| 154       | 27  | Female               | aP                   | 33                         | 33                      | 10                     | 28                        |
+| 155       | 27  | Female               | aP                   | 23                         | 46                      | 39                     | 53                        |
+| 156       | 23  | Female               | aP                   | 50                         | 42                      | 54                     | 29                        |
+| 157       | 27  | Female               | aP                   | 31                         | 47                      | 27                     | 10                        |
+| 158       | 24  | Male                 | aP                   | 11                         | 25                      | 44                     | 23                        |
+| 159       | 30  | Female               | wP                   | 48                         | 51                      | 21                     | 3                         |
+| 160       | 28  | Male                 | aP                   | 30                         | 39                      | 9                      | 6                         |
+| 161       | 31  | Female               | aP                   | 49                         | 36                      | 1                      | 12                        |
+| 162       | 25  | Female               | aP                   | 22                         | 1                       | 3                      | 47                        |
+| 163       | 31  | Female               | wP                   | 47                         | 44                      | 41                     | 13                        |
+| 164       | 33  | Male                 | wP                   | 6                          | 31                      | 2                      | 15                        |
+| 165       | 31  | Female               | wP                   | 38                         | 21                      | 13                     | 25                        |
+| 166       | 23  | Female               | aP                   | 42                         | 4                       | 7                      | 43                        |
+| 167       | 27  | Male                 | aP                   | 43                         | 48                      | 40                     | 7                         |
+| 168       | 33  | Male                 | wP                   | 44                         | 14                      | 28                     | 39                        |
+| 169       | 21  | Male                 | aP                   | 51                         | 22                      | 17                     | 37                        |
+| 170       | 32  | Male                 | wP                   | 29                         | 18                      | 20                     | 35                        |
+| 171       | 21  | Female               | wP                   | 54                         | 28                      | 4                      | 19                        |
+| 172       | 38  | Male                 | wP                   | 1                          | 54                      | 34                     | 54                        |
+
+
+
 ## 1) Antibody Level Tasks
 ### 1.1) IgG-PT MFI levels, 14 days post boost rankings
 | SubjectID | Age | BiologicalSexAtBirth | VaccinePrimingStatus | 1.1) IgG-PT-D14-titer-Rank |
